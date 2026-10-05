@@ -8,7 +8,7 @@ function App() {
 
             <Profile
                 name="Nahush"
-                img="https://via.placeholder.com/150"
+                img="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=80"
                 desc="Student and beginner web developer"
             />
         </div>
